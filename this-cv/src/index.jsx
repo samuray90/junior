@@ -3,7 +3,7 @@ import { render } from 'react-dom'
 import { App } from './component/app'
 import './index.css'
 
-const root = document.querySelector("root")
+const root = document.querySelector("#root")
 
 const app = <App />
 
