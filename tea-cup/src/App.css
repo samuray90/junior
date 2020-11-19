@@ -1,0 +1,7 @@
+search-form {
+  display: flex;
+  justify-content: center;
+  color: red;
+  align-items: center;
+  position: absolute;
+}
